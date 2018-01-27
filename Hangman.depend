@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1516911434 source:d:\mine\uni\computer\class\homeworks\final\hangman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<stdio.h>
+	<windows.h>
+
